@@ -1,0 +1,15 @@
+# Ignore Jupyter checkpoint folders
+.ipynb_checkpoints/
+
+# Ignore Anaconda project metadata
+anaconda_projects/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore OS/system files
+desktop.ini
+*.DS_Store
+
+# Ignore temporary files
+~$*
